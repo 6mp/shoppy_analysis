@@ -17,5 +17,6 @@ It also generates a breakdown of the amount purchased through each gateway and t
 numpy
 pandas
 requests
+pyplot 
 ```
 
